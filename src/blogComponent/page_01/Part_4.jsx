@@ -43,37 +43,37 @@ const Part_4 = () => {
 
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 font-inter mt-8 gap-12">
-                     
-               
-                  <div className="text-start space-y-3">
-                    <h2 className="font-[700] text-xl sm:text-xl md:text-2xl lg:text-[28px]">Planning more Extended Support and Conservation </h2>
-                    <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]">Well performing apps need ongoing maintenance, updating and security but more so they need to work.  </p>
 
-                   
 
-                    <h4 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[23px]">Regular Updates and Improvements</h4>
-                    <ul className="font-[400] text-sm md:text-base lg:text-[19px] pl-6"> 
-                        <li><span className="font-[400]">Fixing Bugs and Patch: </span>
-                            Fixed the bugs as quickly as possible which makes the app stable, and later it results in lesser complaints from users.</li>
-                        <li><span className="font-[400]">Feature Enhancements: </span>
-                            Keep updating the new features so that the application keeps its user engaged at a higher level.</li>
-                    </ul>
+                    <div className="text-start space-y-3">
+                        <h2 className="font-[700] text-xl sm:text-xl md:text-2xl lg:text-[28px]">Planning more Extended Support and Conservation </h2>
+                        <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]">Well performing apps need ongoing maintenance, updating and security but more so they need to work.  </p>
 
-                    <h4 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[23px]">Tracking and Analysis</h4>
-                    <p className="font-[400] text-sm md:text-base lg:text-[19px]">Monitor analytics tools determine performance, usage patterns, or any technical problem with the help of real-time monitoring when you are positioned to find out the problem that you quickly get a solution.</p>
-                     <br/>
-                   
-                   
-                   </div>
-                   <div className="flex justify-center sm:justify-center md:justify-end lg:justify-end mr-80 ">
-                        <img className="w-full  sm:max-w-md md:max-w-md lg:max-w-lg h-auto" src="./Blogimg/Page_1/Leonardo_Phoenix_A_cheerful_techsavvy_3D_cartoonstyle_boy_with_3 (1) 1.png" alt="cheerful IMAGE" />
+
+
+                        <h4 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[23px]">Regular Updates and Improvements</h4>
+                        <ul className="font-[400] text-sm md:text-base lg:text-[19px] pl-6">
+                            <li><span className="font-[400]">Fixing Bugs and Patch: </span>
+                                Fixed the bugs as quickly as possible which makes the app stable, and later it results in lesser complaints from users.</li>
+                            <li><span className="font-[400]">Feature Enhancements: </span>
+                                Keep updating the new features so that the application keeps its user engaged at a higher level.</li>
+                        </ul>
+
+                        <h4 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[23px]">Tracking and Analysis</h4>
+                        <p className="font-[400] text-sm md:text-base lg:text-[19px]">Monitor analytics tools determine performance, usage patterns, or any technical problem with the help of real-time monitoring when you are positioned to find out the problem that you quickly get a solution.</p>
+                        <br />
+
+
+                    </div>
+                    <div className="flex justify-center sm:justify-center md:justify-end lg:justify-end mr-80 ">
+                        <img className="w-full  sm:max-w-md md:max-w-md lg:max-w-lg h-auto" src="./Blogimg/Page_1/8 1.png" alt="cheerful IMAGE" />
                     </div>
 
-                   
+
                 </div>
                 <span className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[23px]">Conclusion: </span>
-                    <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]"> When you have implemented best practices, you will be sure that your applications will meet today's demanded performance and will also have been built to adjust  and adapt to future needs-ensuring long-term success.
-                    </p>
+                <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]"> When you have implemented best practices, you will be sure that your applications will meet today's demanded performance and will also have been built to adjust  and adapt to future needs-ensuring long-term success.
+                </p>
             </div>
         </section>
     )
