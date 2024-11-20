@@ -4,6 +4,9 @@
 // import Part_3 from './blogComponent/page_01/Part_3'
 // import Part_4 from './blogComponent/page_01/Part_4'
 
+import Part_04 from './blogComponent/page_02/Part_04'
+import Part_03 from './blogComponent/page_02/Part_03'
+import Part_02 from './blogComponent/page_02/Part_02'
 import Part_01 from './blogComponent/page_02/Part_01'
 import './App.css'
 
@@ -16,7 +19,11 @@ function App() {
      <Part_2/>
      <Part_3/>
      <Part_4/> */}
+
      <Part_01/>
+     <Part_02/>
+     <Part_03/>
+     <Part_04/>
 
     </>
   )
