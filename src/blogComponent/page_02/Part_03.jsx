@@ -35,7 +35,7 @@ const Part_03 = () => {
                     </div>
 
                     <div className="flex justify-center md:justify-end">
-                        <img className="w-full max-w-xs md:max-w-md lg:max-w-lg h-auto ml-0 md:ml-14" src="./Blogimg/Page_2/Leonardo_Kino_XL_A_3D_illustration_depicting_a_technical_skill_3 1.png" alt="Tech Image" />
+                        <img className="w-full max-w-xs md:max-w-md lg:max-w-lg h-auto ml-0 md:ml-14 lg:h-[410px]" src="./Blogimg/Page_2/Leonardo_Kino_XL_A_3D_illustration_depicting_a_technical_skill_3 1.png" alt="Tech Image" />
                     </div>
                 </div>
 

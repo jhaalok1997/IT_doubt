@@ -2,7 +2,7 @@
 
 const Part_2 = () => {
     return (
-        <section className="p-4 md:p-10">
+        <section className="">
             <div className="font-inter bg-[#D7EAFF] rounded-xl p-4 md:p-16 space-y-4">
                 <h1 className="text-xl sm:text-xl md:text-2xl lg:text-[30px] font-[700]">How important SEO is for Digital Marketing.</h1>
                 <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]"><span className="font-[700] text-[19px]">The role of search engine: </span> The Modern Role in digital marketing  Being active online is just a gateway to take the business online, in this highly competitive digital world. Among those digital marketing tools, nothing can be more potent than Search Engine Optimization. Different from millions of websites created online, brands use their pages to stand out online with the help of the powerful tool called SEO: making the website highly ranked on SERPs and enabling organic traffic, helping a user gain trust in that page.
@@ -11,9 +11,9 @@ const Part_2 = () => {
 
                     <div className="grid grid-cols-1 md:grid-cols-2  gap-4">
                         <div className="ml-12 flex   justify-center sm:justify-center md:justify-start ">
-                            <img className=" w-full h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg " src="./Blogimg/Page_3/Leonardo_Phoenix_Design_a_3D_illustration_of_a_smart_techsavvy_1 (2) 2.png" alt="Tech Image" />
+                            <img className="  h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg " src="./Blogimg/Page_3/Leonardo_Phoenix_Design_a_3D_illustration_of_a_smart_techsavvy_1 (2) 2.png" alt="Tech Image" />
                         </div>
-                        <div className="space-y-4">
+                        <div className="space-y-6 lg:mt-4">
                             <h2 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[28px]">What is SEO?</h2>
                             <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]">SEO stands for search engine optimization and is the art of perfecting a website in such a manner that ranks more preferably within search engine result pages and has organic traffic attraction. It encompasses how websites can answer some solutions that could serve the purpose of a search engine user-meaning accessing your content and making it relevant to the users.
                             </p>

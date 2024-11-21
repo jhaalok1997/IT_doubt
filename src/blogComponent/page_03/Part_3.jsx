@@ -16,7 +16,7 @@ const Part_3 = () => {
                 <h3 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[17px]">● Building Trust and Credibility </h3>    
                     <li className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">Online users tend to believe websites that rank high. A proper SEO strategy that involves quality content and quality backlinks tends to make a website authoritative, hence inciting users to come back and gain more trust with the customers.</li>
                 <h3 className="font-[700] text-lg sm:text-lg md:text-xl lg:text-[17px]">● Improved User Experience</h3>
-                    <li className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">While improving the rankings is also a function of SEO, it helps with good user experience as well. Is there a better way to drive down the bounce rate and </li>
+                    <li className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">While improving the rankings is also a function of SEO, it helps with good user experience as well. Is there a better way to drive down the bounce rate and improve engagement than adhering to the standards of SEO, opting for page load speed, optimization,mobile-friendliness, and easier navigation? Results </li>
                 
                 </ul>
             </div>
@@ -41,7 +41,7 @@ const Part_3 = () => {
         </div>
         <div>
             <ul className="space-y-3">
-                <li className="font-[400] text-[19px]">improve engagement than adhering to the standards of SEO, opting for page load speed, optimization, mobile-friendliness, and easier navigation? Results from search engines validate it, giving better rankings to great user experiences. </li>
+                <li className="font-[400] text-[19px]"> from search  engines validate it, giving better rankings to great user experiences. </li>
 
                 <h3 className="text-[17px] font-[700]">● Higher Conversion Rates</h3>
                 <p className="text-[19px] font-[400]">SEO targets active searchers for specific services or products, making the quality of the leads higher. It also increases conversion rates because it targets related keywords, which means that the information content produced is quality and visitors find what they look for.</p>

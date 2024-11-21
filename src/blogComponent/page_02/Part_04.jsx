@@ -37,7 +37,7 @@ const Part_04 = () => {
 
                     </div>
                     <div className="flex justify-center md:justify-end">
-                        <img className="w-full max-w-xs md:max-w-md lg:max-w-lg h-auto ml-0" src="./Blogimg/Page_2/6 1.png" alt="teach Image" />
+                        <img className=" max-w-xs md:max-w-md lg:max-w-lg h-auto ml-0 lg:h-[410px] lg:mt-4" src="./Blogimg/Page_2/6 1.png" alt="teach Image" />
                     </div>
                 </div>
                

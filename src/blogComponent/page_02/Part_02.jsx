@@ -2,7 +2,7 @@ import React from 'react'
 
 const Part_02 = () => {
   return (
-    <section className="p-4 md:p-10 ">
+    <section className=" ">
         <div className="bg-[#D7EAFF] rounded-xl p-4 md:p-16 space-y-4">
             <h1 className="font-[700] font-inter text-lg sm:text-lg md:text-2xl lg:text-[30px]">Professional Coaching in Project Management: Enhancing Team Efficiency and Outcomes</h1>
             <p className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">Teamwork is very basic to project management since this will ensure timely delivery and attainment of the project, hence high-quality outcomes. Project management coaching is an effective avenue by which teams can specifically determine potential for growth, progression and ultimately turnover.</p>
