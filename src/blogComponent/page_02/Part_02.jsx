@@ -3,7 +3,7 @@ import React from 'react'
 const Part_02 = () => {
   return (
     <section className="p-4 md:p-10 ">
-        <div className="bg-[#D7EAFF] p-4 md:p-16 space-y-4">
+        <div className="bg-[#D7EAFF] rounded-xl p-4 md:p-16 space-y-4">
             <h1 className="font-[700] font-inter text-lg sm:text-lg md:text-2xl lg:text-[30px]">Professional Coaching in Project Management: Enhancing Team Efficiency and Outcomes</h1>
             <p className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">Teamwork is very basic to project management since this will ensure timely delivery and attainment of the project, hence high-quality outcomes. Project management coaching is an effective avenue by which teams can specifically determine potential for growth, progression and ultimately turnover.</p>
 
@@ -11,7 +11,7 @@ const Part_02 = () => {
                 <div className="flex justify-center md:ml-8">
                     <img className="w-full h-auto max-w-sm sm:max-w-sm md:mx-w-md lg:mx-w-lg" src="./Blogimg/Page_2/Rectangle 27 (2).png" alt="Tech image" />
                 </div>
-                <div className="font-inter md:mr-12 space-y-2">
+                <div className="font-inter md:mr-12 space-y-4">
                     <h2 className="text-lg sm:text-lg md:text-xl lg:text-[28px]  font-[700]">Importance of Professional Coaching in Project Management</h2>
 
                     <p className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">Professional coaching is not training It aims at cultivating certain competency as well as communication practices and decision-making of the behavioral team members, like offering personalized assistance via, the coaching arm equips project teams with mechanisms for addressing their challenges, which in turn leads to better teamwork and therefore increased productivity.</p>
