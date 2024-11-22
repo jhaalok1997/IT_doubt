@@ -12,6 +12,12 @@ import Part_4 from './blogComponent/page_03/Part_4'
 import Part_1 from './blogComponent/page_03/Part_1'
 import Part_2 from './blogComponent/page_03/Part_2'
 import Part_3 from './blogComponent/page_03/Part_3'
+
+// import Part_1 from './blogComponent/page_04/Part_1'
+// import Part_2 from './blogComponent/page_04/Part_2'
+// import Part_3 from './blogComponent/page_04/Part_3'
+// import Part_4 from './blogComponent/page_04/Part_4'
+// import Part_5 from './blogComponent/page_04/Part_5'
 import './App.css'
 
 function App() {
@@ -23,16 +29,24 @@ function App() {
      <Part_2/>
      <Part_3/>
      <Part_4/> */}
+
 {/*      
      <Part_01/>
      <Part_02/>
      <Part_03/>
      <Part_04/> */}
 
+
      <Part_1/>
      <Part_2/>
      <Part_3/>
      <Part_4/>
+
+     {/* <Part_1 />
+     <Part_2 />
+     <Part_3 />
+     <Part_4/>
+     <Part_5/> */}
 
     </>
   )

@@ -2,7 +2,7 @@
 
 const Part_4 = () => {
   return (
-    <section className="ml-16 p-4 md:p-12">
+    <section className="ml- p-4 md:p-6">
         <div className="font-inter p-4 md:p-12 space-y-4">
             <h1 className="text-lg sm:text-lg md:text-2xl lg:text-[28px] font-[700 ]">How SEO Works with Digital Marketing Goals</h1>
             <p className="font-[400] text-sm sm:text-sm md:text-base lg:text-[19px]">That is why the addition of SEO to the campaign could succeed in ensuring its success when implemented to improve the reach and perception value and engagement of the target audience in such a manner that the brands could achieve the desired objectives at a core level.</p>
@@ -21,7 +21,7 @@ const Part_4 = () => {
             </ul>
         </div>
 
-        <div className="font-inter mt-12 space-y-2">
+        <div className="font-inter mt-8 ml-4 sm:ml-4 md:ml-12 space-y-2">
             <h1 className="text-lg sm:text-lg md:text-2xl lg:text-[28px] font-[700]">Fundamental SEO methods in Digital Marketing </h1>
             <p className="text-sm sm:text-sm md:text-base lg:text-[19px] font-[400]">Some of the top SEO techniques strengthen a digital marketing campaign for the elementary reason that they provide an assurance of increased visibility and engagement, which, by extension, converts.</p>
 
